@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Majority313
+- 👋 Hi, I’m @Obinna
 - 👀 I’m interested in Data Science, web development and ethical hacking
 - 🌱 I’m currently learning python/data engineering at EDSA
 - 💞️ I’m looking to collaborate on data science and web development
