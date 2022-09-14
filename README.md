@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Obinna
-- 👀 I’m interested in Data Science, web development and ethical hacking
-- 🌱 I’m currently learning python/data engineering at EDSA
-- 💞️ I’m looking to collaborate on data science and web development
+- 👀 I am a Data Engineer interested in everything Data.
+- 🌱 I am currently a DE Intern at ExploreAI
+- 💞️ I am excited to collaborate on Data and Cloud projects
 - 📫 How to reach me - obinna.freduzo@gmail.com
 
 <!---
